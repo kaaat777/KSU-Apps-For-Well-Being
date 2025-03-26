@@ -1,7 +1,8 @@
 # KSU-Apps-For-Well-Being
-# Medical Bill Scanner – Mendix Frontend (Hackathon 2nd Place)
+# BillCure – Mendix Application(Hackathon 2nd Place)
+### Medical Bill Helper
 
-This is the exported Mendix project package (`.mpk`) for our medical bill scanning web app, built for the KSU Apps for Well-Being Hackathon.
+This is the exported Mendix project package (`.mpk`) for our medical bill helper web app, built for the KSU Apps for Well-Being Hackathon.
 
 **2nd Place Winner**  
 Built in ~30 hours using Mendix (frontend) and a custom backend API  
